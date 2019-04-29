@@ -5,8 +5,6 @@ import java.util.ArrayList;
 
 public class uloha2_1 {
 
-    //public static int citacPodm = 0;
-
     public static void main(String[] args) {
 
         ArrayList<int[]> hrany = new ArrayList<>();
@@ -49,10 +47,10 @@ public class uloha2_1 {
             vypis_vahy(hrany,vahy, pocetHran);
 
             //vypis podminky
-            vypis_podminky(hrany, vahy, pocetHran, pocetVrcholu);
+            vypis_podminky();
 
             // minimalizuj
-            minimalizuj(hrany, vahy, pocetHran);
+            minimalizuj();
 
             System.out.println("solve;");
             System.out.println("printf \"#OUTPUT: %d\\n\", vahaOdebranych;");
@@ -87,7 +85,7 @@ public class uloha2_1 {
     }
 
 
-    public static void vypis_podminky(ArrayList<int[]> hrany, ArrayList<Integer> vahy, int pocetHran, int pocetVrcholu) {
+    public static void vypis_podminky() {
         // x je pomocna promenna, ktera rika, jestli dana hrana je nebo neni pouzita ve vysledku. Budou oindexovany hranami
         System.out.println("var x{(i,j) in Hrany}, integer, >= 0;");
 
@@ -99,7 +97,7 @@ public class uloha2_1 {
     }
 
 
-    public static void minimalizuj(ArrayList<int[]> hrany, ArrayList<Integer> vahy, int pocetHran) {
+    public static void minimalizuj() {
         // promenna pro podminku
         System.out.println("var vahaOdebranych;");
 

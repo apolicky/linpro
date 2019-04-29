@@ -55,9 +55,6 @@ public class uloha1 {
                 System.out.println("printf \"#OUTPUT END\\n\";");
                 System.out.println("end;");
 
-
-
-
             }
             else{
                 System.out.println("Spatny format prvniho radku.");
