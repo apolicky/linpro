@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/linpro.iml" filepath="$PROJECT_DIR$/.idea/linpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ulohy/ulohy.iml" filepath="$PROJECT_DIR$/ulohy/ulohy.iml" />
+    </modules>
+  </component>
+</project>
