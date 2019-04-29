@@ -2,456 +2,442 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1497fc15-4d28-4318-a137-f66d9a88d766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ulohy/src/zkusebni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doGLP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doGLP1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/spoustec1.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/spoustec2.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/ulohy/src/uloha1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/ulohy/src/uloha2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/ulohy/ulohy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/uprav1.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/uprav2.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/reseni1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/reseni2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-001.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-002.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-003.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-006.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-009.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-010.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-011.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-013.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-014.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-016.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-017.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-018.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-019.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-020.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-021.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-022.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-023.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-024.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-025.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-026.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-027.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-028.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-029.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-030.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-031.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-032.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-033.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-034.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-035.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-036.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-037.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-038.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-039.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-040.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-041.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-042.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-043.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-044.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-045.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-046.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-047.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-048.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-049.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-050.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-051.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-052.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-053.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-054.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-055.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-056.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-057.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-058.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-059.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-060.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-061.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-062.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-063.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-064.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-065.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-066.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-067.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-068.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-069.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-070.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-071.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-072.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-073.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-074.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-075.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-076.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-077.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-078.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-079.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-080.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-081.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-082.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-083.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-084.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-085.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-086.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-087.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-088.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-089.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-090.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-091.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-092.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-093.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-094.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-095.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-096.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-097.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-098.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-099.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-100.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-103.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-104.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-105.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-108.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-109.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-110.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-114.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-115.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-116.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-118.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-122.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-124.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-125.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-126.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-127.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-128.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-129.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-130.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-131.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-132.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-133.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-134.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-143.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-144.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-145.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-146.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-147.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-148.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-149.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-150.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-151.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-152.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-153.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-154.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-155.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-156.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-157.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-158.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-159.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-160.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-161.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-162.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-163.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-164.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-165.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-166.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-167.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-168.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-169.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-170.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-171.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-172.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-173.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-174.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-175.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-176.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-177.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-178.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-179.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-180.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-181.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-182.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-183.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-184.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-185.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-186.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-187.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-188.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-189.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-190.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-191.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-192.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-193.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-194.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-195.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-196.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-197.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-198.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-199.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-c9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup1-s9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-000.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-001.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-002.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-003.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-006.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-009.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-010.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-011.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-013.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-014.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-016.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-017.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-018.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-019.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-020.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-021.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-022.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-023.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-024.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-025.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-026.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-027.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-028.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-029.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-030.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-031.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-032.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-033.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-034.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-035.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-036.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-037.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-038.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-039.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-040.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-041.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-042.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-043.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-044.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-045.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-046.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-047.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-048.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-049.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-050.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-051.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-052.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-053.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-054.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-055.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-056.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-057.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-058.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-059.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-060.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-061.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-062.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-063.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-064.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-065.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-066.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-067.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-068.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-069.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-070.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-071.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-072.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-073.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-074.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-075.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-076.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-077.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-078.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-079.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-080.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-081.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-082.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-083.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-084.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-085.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-086.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-087.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-088.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-089.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-090.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-091.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-092.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-093.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-094.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-095.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-096.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-097.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-098.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-099.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-100.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-101.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-103.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-104.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-105.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-107.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-108.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-109.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-110.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-113.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-114.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-115.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-116.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-118.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-119.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-121.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-122.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-124.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-125.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-126.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-127.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-128.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-129.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-130.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-131.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-132.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-133.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-134.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-135.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-137.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-138.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-139.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-143.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-144.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-145.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-146.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-147.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-148.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-149.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-150.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-151.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-152.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-153.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-154.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-155.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-156.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-157.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-158.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-159.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-160.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-161.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-162.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-163.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-164.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-165.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-166.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-167.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-168.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-169.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-170.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-171.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-172.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-173.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-174.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-175.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-176.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-177.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-178.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-179.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-180.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-181.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-182.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-183.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-184.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-185.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-186.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-187.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-188.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-189.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-190.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-191.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-192.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-193.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-194.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-195.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-196.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-197.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-198.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-199.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s6.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/odezvdat/vstupy/vstup2-s9.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulohy/src/uloha1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulohy/src/uloha1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulohy/src/uloha2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulohy/src/uloha2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/z2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevzdat/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevzdat/ulohy/src/uloha1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevzdat/ulohy/src/uloha2_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odevzdat/ulohy/ulohy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uprav1.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uprav2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-005.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-006.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-007.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-008.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-010.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-011.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-012.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-020.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-021.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-022.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-023.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-024.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-025.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-026.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-028.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-029.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-030.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-031.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-035.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-036.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-037.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-038.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-040.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-041.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-044.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-045.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-046.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-047.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-048.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-049.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-050.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-051.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-052.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-053.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-054.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-055.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-056.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-057.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-059.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-060.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-062.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-065.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-066.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-067.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-069.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-070.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-071.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-074.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-075.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-076.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-077.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-078.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-079.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-080.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-081.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-082.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-083.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-084.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-085.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-086.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-087.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-088.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-090.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-091.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-092.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-093.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-094.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-098.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-103.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-104.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-113.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-124.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-125.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-126.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-127.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-131.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-132.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-133.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-139.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-142.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-143.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-148.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-151.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-157.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-158.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-162.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-165.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-167.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-169.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-171.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-172.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-173.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-174.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-178.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-182.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-183.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-186.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-189.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-190.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-193.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-195.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-198.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-199.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-c9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy1_upr/vstup1-s9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-005.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-006.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-007.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-008.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-010.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-011.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-012.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-014.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-016.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-018.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-020.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-021.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-022.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-023.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-024.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-025.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-026.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-028.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-029.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-030.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-031.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-035.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-036.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-037.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-038.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-040.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-041.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-044.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-045.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-046.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-047.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-048.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-049.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-050.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-051.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-052.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-053.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-054.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-055.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-056.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-057.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-059.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-060.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-062.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-065.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-066.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-067.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-069.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-070.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-071.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-074.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-075.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-076.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-077.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-078.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-079.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-080.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-081.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-082.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-083.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-084.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-085.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-086.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-087.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-088.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-090.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-091.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-092.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-093.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-094.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-098.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-103.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-104.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-110.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-111.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-112.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-113.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-115.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-120.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-124.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-125.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-126.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-127.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-131.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-132.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-133.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-139.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-142.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-143.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-148.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-151.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-153.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-157.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-158.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-162.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-165.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-167.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-169.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-171.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-172.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-173.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-174.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-178.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-180.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-182.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-183.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-186.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-189.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-190.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-193.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-195.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-198.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-199.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vstupy2_upr/vstup2-s9.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -464,10 +450,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ulohy/src/uloha2_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-378">
+            <state relative-caret-position="-1134">
               <caret column="30" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
@@ -476,7 +462,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ulohy/src/zkusebni.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="180">
               <caret line="12" column="95" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="95" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -485,11 +471,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ulohy/src/uloha1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="313">
+              <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -519,11 +505,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
-    <option name="y" value="62" />
-    <option name="width" value="1079" />
-    <option name="height" value="1858" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="y" value="34" />
+    <option name="width" value="960" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -533,8 +518,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -557,6 +540,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -619,10 +604,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.uloha2" />
       <item itemvalue="Application.uloha1" />
-      <item itemvalue="Application.zkusebni" />
+      <item itemvalue="Application.uloha2" />
       <item itemvalue="Application.uloha2_1" />
+      <item itemvalue="Application.zkusebni" />
     </list>
     <recent_temporary>
       <list>
@@ -647,9 +632,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
+    <frame x="0" y="34" width="960" height="1046" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26100966" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26940134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -695,16 +681,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ulohy/src/uloha2.java" />
-    <entry file="file://$PROJECT_DIR$/ulohy/src/uloha2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-378">
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ulohy/src/zkusebni.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="180">
           <caret line="12" column="95" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -714,11 +693,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ulohy/src/uloha1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="313">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ulohy/src/uloha2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1134">
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
