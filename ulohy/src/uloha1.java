@@ -53,6 +53,7 @@ public class uloha1 {
 
                 System.out.println("solve;");
                 System.out.println("printf \"#OUTPUT: %d\\n\", maxHodnota;");
+                System.out.println("for {i in (0.." + pocetVrcholu+")} { printf \"v_%d: %d\\n\", i, v[i]; }");
                 System.out.println("printf \"#OUTPUT END\\n\";");
                 System.out.println("end;");
 
