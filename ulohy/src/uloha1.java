@@ -35,25 +35,25 @@ public class uloha1 {
                 }
 
                 // pro kazdy vrchol si udelam novou promennou, ktera mi reprezentuje ?poradi? v usporadani
-                System.out.println("var v{i in (0.." + pocetVrcholu + ")} >=0, <= " + pocetVrcholu + ";");
+                System.out.println("var v{i in (0.." + (pocetVrcholu-1) + ")} >=0, <= " + (pocetVrcholu-1) + ";");
 
                 // chci minimalizovat tuto hodnotu, zavedu si novou promennou
                 System.out.println("var maxHodnota;");
                 System.out.println("minimize obj: maxHodnota;");
-                System.out.println("iteracni{i in (0.." + pocetVrcholu + ")}: maxHodnota >= v[i]; "); // ta musi mit vyssi hodnotu jak vsechny vrcholy,
+                System.out.println("iteracni{i in (0.." + (pocetVrcholu-1) + ")}: maxHodnota >= v[i]; "); // ta musi mit vyssi hodnotu jak vsechny vrcholy,
 
                 // dva vrcholy vedle sebe musi mit spravnou hodnotu, akorat tedy nevim, jeslti to mam spravne to poradi.
                 // je na zacatku usporadani ten, do ktereho jde nejvic hran? Ono je to asi jedno, podle reseni to funguje.
                 int cisloPodm = 0;
                 for(int i = 0; i < pocetHran; i++){
-                    System.out.println("p" + cisloPodm + ": ( v[" + hrany.get(i)[0] + "] - 1 ) >= v[" + hrany.get(i)[1] + "];");
+                    System.out.println("p" + cisloPodm + ": ( v[" + hrany.get(i)[0] + "] + 1 ) <= v[" + hrany.get(i)[1] + "];");
                     cisloPodm++;
                 }
 
 
                 System.out.println("solve;");
                 System.out.println("printf \"#OUTPUT: %d\\n\", maxHodnota;");
-                System.out.println("for {i in (0.." + pocetVrcholu+")} { printf \"v_%d: %d\\n\", i, v[i]; }");
+                System.out.println("for {i in (0.." + (pocetVrcholu-1) +")} { printf \"v_%d: %d\\n\", i, v[i]; }");
                 System.out.println("printf \"#OUTPUT END\\n\";");
                 System.out.println("end;");
 

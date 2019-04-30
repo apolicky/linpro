@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1497fc15-4d28-4318-a137-f66d9a88d766" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0&#10;&#10;'" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp" beforeDir="false" afterPath="$PROJECT_DIR$/tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ulohy/src/uloha1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ulohy/src/uloha1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ulohy/src/uloha1.java" afterDir="false" />
     </list>
@@ -44,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ulohy/src/uloha1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="55" column="107" selection-start-line="55" selection-start-column="107" selection-end-line="55" selection-end-column="107" />
+            <state relative-caret-position="529">
+              <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -273,8 +275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ulohy/src/uloha1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="55" column="107" selection-start-line="55" selection-start-column="107" selection-end-line="55" selection-end-column="107" />
+        <state relative-caret-position="529">
+          <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
