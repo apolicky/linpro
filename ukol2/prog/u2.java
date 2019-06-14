@@ -72,6 +72,9 @@ public class u2 {
                 System.out.println("bar_prir{i in (0.." + p1 + "), j in (0.." + h + ")}:" +
                         " i_bar_j[i,j] <= barva_prirazena[j];");
 
+                // proc by mel byt vrchol 1 v hrane 3?
+                System.out.println("vrch_1_v_1{j in (1.." + h + ")}: i_bar_j[0,j] <= 0; ");
+
                 for (int vrchol = 0; vrchol < pocet_vrcholu; vrchol++) {
                     for (int nepritel : vrcholy_a_nepratele.get(vrchol)) {
                         System.out.println("b" + cislo_podminky + "{j in (0.." + h +
