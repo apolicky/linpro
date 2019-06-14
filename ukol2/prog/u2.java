@@ -60,6 +60,7 @@ public class u2 {
                     System.out.println("#" + vrcholy_a_nepratele.get(i).size());
                 }
 
+
                 h = Math.min(h,pocet_vrcholu);
 
                 System.out.println("var i_bar_j{i in (0.." + p1 +"), j in (0.." + h + ")} >= 0, <= 1, integer;");
