@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6dd5ca6-85be-496f-8248-856d300b6f23" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navic/doGLP" beforeDir="false" afterPath="$PROJECT_DIR$/navic/doGLP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navic/spoustec.sh" beforeDir="false" afterPath="$PROJECT_DIR$/navic/spoustec.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/u2.class" beforeDir="false" afterPath="$PROJECT_DIR$/prog/u2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prog/u2.java" beforeDir="false" afterPath="$PROJECT_DIR$/prog/u2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp" beforeDir="false" afterPath="$PROJECT_DIR$/tmp" afterDir="false" />
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prog/u2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+            <state relative-caret-position="576">
+              <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -168,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prog/u2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="113" column="19" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="19" />
+        <state relative-caret-position="576">
+          <caret line="119" column="17" selection-start-line="119" selection-start-column="17" selection-end-line="119" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
