@@ -1,3 +1,4 @@
+import java.awt.image.AreaAveragingScaleFilter;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +7,8 @@ import java.util.Collections;
 
 
 public class u2 {
-    private static int cislo_podminky, pocet_hran, pocet_vrcholu;
+    private static int cislo_podminky, pocet_hran, pocet_vrcholu, dalsi_barva;
+    private static int h; // horni hranice. Bude maximalne o 1 barvu vic, nez je nejvyssi stupen vrcholu.
 
     public static void main(String[] args){
 
@@ -14,6 +16,8 @@ public class u2 {
         ArrayList<ArrayList<Integer>> vrcholy_a_nepratele = new ArrayList<>();
 
         cislo_podminky = 0;
+        dalsi_barva = 0;
+        h = 0;
 
         try(BufferedReader BR = new BufferedReader(new InputStreamReader(System.in))){
 
@@ -54,10 +58,18 @@ public class u2 {
 
                 int p1=pocet_vrcholu-1;
 
-                int h = 0; // horni hranice. Bude maximalne o 1 barvu vic, nez je nejvyssi stupen vrcholu.
+
                 for(int i = 0; i < pocet_vrcholu; i++){
                     h = Math.max(vrcholy_a_nepratele.get(i).size(), h);
                     System.out.println("#" + vrcholy_a_nepratele.get(i).size());
+                }
+
+                for (int i = 0 ; i < vrcholy_a_nepratele.size(); i++){
+                    System.out.print("# v_" + i);
+                    for(int soused : vrcholy_a_nepratele.get(i) ){
+                        System.out.print(" " + soused);
+                    }
+                    System.out.println();
                 }
 
 
@@ -73,17 +85,25 @@ public class u2 {
                 System.out.println("bar_prir{i in (0.." + p1 + "), j in (0.." + h + ")}:" +
                         " i_bar_j[i,j] <= barva_prirazena[j];");
 
-                // proc by mel byt vrchol 1 v hrane 3?
-                System.out.println("vrch_1_v_1{j in (1.." + h + ")}: i_bar_j[0,j] <= 0; ");
-                System.out.println("prv_sous_1_ma_1{j in (0.." + h + "): j != 1}: i_bar_j[" + vrcholy_a_nepratele.get(0).get(0) + ",j] <= 0 ;");
 
+                ArrayList<Integer> jista_barva = new ArrayList<>();
 
-                for (int nepritel : vrcholy_a_nepratele.get(0)){
-                    System.out.println("nepr" + cislo_podminky + ": i_bar_j[" + nepritel + ", 0] <= 0; ");
-                    System.out.println("soused" + cislo_podminky + "{j in (1.." + h +
-                            ")}: i_bar_j[0,j] + i_bar_j[" + nepritel + ",j] <= 1; ");
-                    cislo_podminky++;
-                }
+                // KDYZ SE TADY PREHODI KOMENTARE U projdi_prvni a for cyklu in nepri...,
+                // ZRYCHLI SE VYPOCET, AVSAK JEN U NEKTERYCH VSTUPU DA VYSLEDEK JAKO JE V RESENICH
+
+                /*
+                projdi_prvni(0,jista_barva,vrcholy_a_nepratele);
+                */
+                ///*
+
+                System.out.println("vrch_1_v_1{j in (0.." + h + "): j != " + dalsi_barva + "}: i_bar_j[0,j] <= 0; ");
+                dalsi_barva++;
+                int pn0 = vrcholy_a_nepratele.get(0).get(0); // prvni nepritel nulteho vrcholu
+                System.out.println("prv_sous_1_ma_1{j in (0.." + h + "): j != "+dalsi_barva+"}: i_bar_j[" + pn0 + ",j] <= 0 ;");
+                dalsi_barva++;
+                //*/
+
+                // KONEC CASTI S KOMENTARI
 
                 for (int vrchol = 1; vrchol < pocet_vrcholu; vrchol++) {
                     for (int nepritel : vrcholy_a_nepratele.get(vrchol)) {
@@ -116,6 +136,48 @@ public class u2 {
         }
     }
 
+    public static void projdi_prvni(int vrchol, ArrayList<Integer> maji_jistou_barvu, ArrayList<ArrayList<Integer>> vrch_nepr){
+        /*
+         System.out.println("vrch_1_v_1{j in (0.." + h + "): j != " + dalsi_barva + "}: i_bar_j[0,j] <= 0; ");
+                jista_barva.add(0);
+                dalsi_barva++;
+                int pn0 = vrcholy_a_nepratele.get(0).get(0); // prvni nepritel nulteho vrcholu
+                System.out.println("prv_sous_1_ma_1{j in (0.." + h + "): j != "+dalsi_barva+"}: i_bar_j[" + pn0 + ",j] <= 0 ;");
+                dalsi_barva++;
+                jista_barva.add(pn0);
+
+                projdi_prvni(0,jista_barva);
+         */
+
+
+        System.out.println("vrch_1_v_" + vrchol + "{j in (0.." + h + "): j != " + dalsi_barva + "}: i_bar_j[" + vrchol + ",j] <= 0; ");
+        maji_jistou_barvu.add(vrchol);
+        dalsi_barva++;
+        cislo_podminky++;
+
+
+        int dalsi_vrchol = -1;
+        for( int dv : vrch_nepr.get(vrchol)){
+            if(!maji_jistou_barvu.contains(dv)){
+                boolean je_u_vsech_nepratel = true;
+                for(int i = 0; i < maji_jistou_barvu.size(); i++){
+                    if(!vrch_nepr.get(maji_jistou_barvu.get(i)).contains(dv)){
+                        je_u_vsech_nepratel = false;
+                    }
+                }
+                if(je_u_vsech_nepratel){
+                    dalsi_vrchol=dv;
+                    break;
+                }
+            }
+
+
+        }
+
+        if(dalsi_vrchol != -1){
+            projdi_prvni(dalsi_vrchol,maji_jistou_barvu,vrch_nepr);
+        }
+    }
 
 
 }
