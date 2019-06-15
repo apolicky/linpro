@@ -75,8 +75,17 @@ public class u2 {
 
                 // proc by mel byt vrchol 1 v hrane 3?
                 System.out.println("vrch_1_v_1{j in (1.." + h + ")}: i_bar_j[0,j] <= 0; ");
+                System.out.println("prv_sous_1_ma_1{j in (0.." + h + "): j != 1}: i_bar_j[" + vrcholy_a_nepratele.get(0).get(0) + ",j] <= 0 ;");
 
-                for (int vrchol = 0; vrchol < pocet_vrcholu; vrchol++) {
+
+                for (int nepritel : vrcholy_a_nepratele.get(0)){
+                    System.out.println("nepr" + cislo_podminky + ": i_bar_j[" + nepritel + ", 0] <= 0; ");
+                    System.out.println("soused" + cislo_podminky + "{j in (1.." + h +
+                            ")}: i_bar_j[0,j] + i_bar_j[" + nepritel + ",j] <= 1; ");
+                    cislo_podminky++;
+                }
+
+                for (int vrchol = 1; vrchol < pocet_vrcholu; vrchol++) {
                     for (int nepritel : vrcholy_a_nepratele.get(vrchol)) {
                         System.out.println("b" + cislo_podminky + "{j in (0.." + h +
                                 ")}: i_bar_j[" + vrchol + ",j] + i_bar_j[" + nepritel + ",j] <= 1;");
