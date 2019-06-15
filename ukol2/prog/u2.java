@@ -105,6 +105,16 @@ public class u2 {
 
                 // KONEC CASTI S KOMENTARI
 
+                //  HORNI LIMIT NA BARVU i. VRCHOLU
+
+                /*for(int i = 0; i < vrcholy_a_nepratele.size(); i++){
+                    System.out.println("hl" + cislo_podminky + "{j in (" + (vrcholy_a_nepratele.get(i).size() - 1) +
+                            ".." + h + ")}: i_bar_j[" + i + ",j] <= 0 ; " );
+                    cislo_podminky++;
+                }*/
+
+                // KONEC LIMITU
+
                 for (int vrchol = 1; vrchol < pocet_vrcholu; vrchol++) {
                     for (int nepritel : vrcholy_a_nepratele.get(vrchol)) {
                         System.out.println("b" + cislo_podminky + "{j in (0.." + h +
